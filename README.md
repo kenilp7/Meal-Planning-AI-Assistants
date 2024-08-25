@@ -6,7 +6,7 @@ The **Meal Planning AI Assistant** is a multi-agent AI system designed to help u
 
 ## 📜 Table of Contents
 
-- [Installation](#installation)
+- [Installation](##installation)
 - [Configuration](#configuration)
 - [Agents](#agents)
 - [Tools](#tools)
@@ -23,7 +23,7 @@ The **Meal Planning AI Assistant** is a multi-agent AI system designed to help u
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/meal-planning-ai-assistant.git
+git clone https://github.com/kenilp7/Meal-Planning-AI-Assistant.git
 cd meal-planning-ai-assistant
 ```
 
