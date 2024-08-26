@@ -6,7 +6,7 @@ The **Meal Planning AI Assistant** is a multi-agent AI system designed to help u
 
 ## 📜 Table of Contents
 
-- [Installation](#installation)
+- [Installation](#🚀installation)
 - [Configuration](#configuration)
 - [Agents](#agents)
 - [Tools](#tools)
@@ -155,7 +155,7 @@ team = RoundRobinGroupChat(agents=[budget_agent, breakfast_agent, lunch_agent, d
 
 ## 👥 Contributing
 
-We welcome contributions! To contribute:
+Contributions are always welcome! To contribute:
 
 1. Fork the repository.
 2. Create a feature branch.
