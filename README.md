@@ -6,7 +6,7 @@ The **Meal Planning AI Assistant** is a multi-agent AI system designed to help u
 
 ## 📜 Table of Contents
 
-- [Installation](#🚀installation)
+- [Installation](#-installation)
 - [Configuration](#configuration)
 - [Agents](#agents)
 - [Tools](#tools)
